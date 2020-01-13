@@ -1,11 +1,15 @@
 MiraPy: Python Package for Deep Learning in Astronomy
 --------------------------------------------------------
 
+.. image:: https://img.shields.io/badge/Powered%20by-Keras-red?style=flat-square
+    :target: http://keras.io
+    :alt: Powered by Keras Badge
+
 .. image:: http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat-square
     :target: http://www.astropy.org
     :alt: Powered by Astropy Badge
 
-.. image:: https://img.shields.io/travis/com/mirapy-org/mirapy.svg?style=flat-square
+.. image:: https://img.shields.io/travis/com/mirapy-org/mirapy.svg?style=flat-square&logo=travis%20ci
     :target: https://travis-ci.com/mirapy-org/mirapy
     :alt: Travis CI
 
@@ -17,11 +21,11 @@ MiraPy: Python Package for Deep Learning in Astronomy
     :target: https://coveralls.io/github/mirapy-org/mirapy
     :alt: Coveralls
 
-.. image:: https://img.shields.io/badge/chat-on%20Slack-E51670.svg?style=flat-square
+.. image:: https://img.shields.io/badge/chat%20on-Slack-4A154B.svg?style=flat-square&logo=slack
     :target: https://join.slack.com/t/mirapy/shared_invite/enQtNjEyNDQwNTI2NDY3LTE3ZmI3M2EyMjdkZWU4NTE2NjkxZjdhYWE4ZjUyODY0NzllNzRlMzZhNThhNWRiMjk4MjNhYWQ3NjA3YjJiNGY
     :alt: Slack
 
-.. image:: https://img.shields.io/pypi/v/mirapy.svg?style=flat-square
+.. image:: https://img.shields.io/pypi/v/mirapy.svg?style=flat-square&logo=pypi
     :target: https://pypi.org/project/mirapy/
     :alt: PyPI
 
